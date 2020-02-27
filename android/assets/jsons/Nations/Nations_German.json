@@ -13,10 +13,10 @@
 		"declaringWar": "Der Dämon will das Blut der Soldaten!",
 		"attacked": "Nun gut, ich nehme an Ihr wisst was Ihr tut.",
 		"defeated": "Es ist vorbei. Vielleicht soll ich jetzt meinen Frieden finden.",
-		"introduction": "Bist du real oder ein Phantom?",
+		"introduction": "Seid Ihr real oder ein Phantom?",
 		
-		"neutralHello": "Grüße.",
-		"neutralLetsHearIt": ["ich höre.","Was wollt Ihr??"],
+		"neutralHello": "Seid gegrüßt.",
+		"neutralLetsHearIt": ["Ich höre.","Was wollt Ihr?"],
 		"neutralNo": ["Nein!","Sicherlich nicht.","Das ist nicht annehmbar!"],
 		"neutralYes": ["Abgemacht!","Ja!","Einverstanden!"],
 
@@ -50,7 +50,7 @@
 		"attacked": "Tatsächlich werde auch ich des Friedens müde.",
 		"defeated": "Irgendwie seid Ihr mein Verhängnis geworden! Was für eine Bestie seid Ihr?",
 		"introduction": "Hallo Fremder! Ich bin Alexandros, Sohn von Königen und Enkel der Götter!",
-		
+		//TODO
 		"neutralHello": "Seid gegrüßt!",
 		"neutralLetsHearIt": ["I'm listening.","Go on.","Yes?","Come."],
 		"neutralNo": ["We decline.","Certainly not.","It is necessary not to accept."],
